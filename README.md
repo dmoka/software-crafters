@@ -21,3 +21,8 @@ All the episodes of the software crafters Twitter space series
 <audio controls>
   <source src="https://github.com/dmoka/software-crafters/blob/main/Software-Crafters-Qualities-of-good-software.mp3?raw=true" type="audio/mp3">
 </audio>
+
+## Collaborate to deliver
+<audio controls>
+  <source src="https://github.com/dmoka/software-crafters/blob/main/Software-Crafters-Collaborate-to-deliver.mp3?raw=true" type="audio/mp3">
+</audio>
