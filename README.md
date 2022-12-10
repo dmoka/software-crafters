@@ -1,6 +1,6 @@
-# Software Crafters Twitter space
+# Software Crafters Twitter space series
 
-All the episodes of the Software Crafters Twitter space series
+Here are all the episodes of the Software Crafters Twitter space series. Enjoy! :-)
 
 ## Pair-Programming
 <audio controls>
