@@ -17,6 +17,11 @@ Here are all the episodes of the Software Crafters Twitter space series. Enjoy! 
   <source src="https://github.com/dmoka/software-crafters/blob/main/Software-Crafters-TDD.mp3?raw=true" type="audio/mp3">
 </audio>
 
+## Code reviews
+<audio controls>
+  <source src="https://github.com/dmoka/software-crafters/blob/main/Software-Crafters-Code-reviews.mp3?raw=true" type="audio/mp3">
+</audio>
+
 ## Qualities of good software
 <audio controls>
   <source src="https://github.com/dmoka/software-crafters/blob/main/Software-Crafters-Qualities-of-good-software.mp3?raw=true" type="audio/mp3">
