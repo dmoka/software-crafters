@@ -2,6 +2,11 @@
 
 Here are all the episodes of the Software Crafters Twitter space series. Enjoy! :-)
 
+## Introduction to the space
+<audio controls>
+  <source src="https://github.com/dmoka/software-crafters/blob/main/Software-Crafters-Introduction-to-the-space.mp3?raw=true" type="audio/mp3">
+</audio>
+
 ## No testing, no quality
 <audio controls>
   <source src="https://github.com/dmoka/software-crafters/blob/main/Software-Crafters-No-testing-no-quality.mp3?raw=true" type="audio/mp3">
