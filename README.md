@@ -1,8 +1,5 @@
 # Software Crafters Twitter space series
 
-<img src="https://github.com/dmoka/software-crafters/blob/main/sc-logo.png" width="250" height="250" />
-
-
 Here are all the episodes of the Software Crafters Twitter space series. Enjoy! :-)
 
 ## Introduction to the space
