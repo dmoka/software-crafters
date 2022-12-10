@@ -1,6 +1,6 @@
 # Software Crafters Twitter space
 
-All the episodes of the software crafters Twitter space series
+All the episodes of the Software Crafters Twitter space series
 
 ## Pair-Programming
 <audio controls>
@@ -25,4 +25,9 @@ All the episodes of the software crafters Twitter space series
 ## Collaborate to deliver
 <audio controls>
   <source src="https://github.com/dmoka/software-crafters/blob/main/Software-Crafters-Collaborate-to-deliver.mp3?raw=true" type="audio/mp3">
+</audio>
+
+## No testing, no quality
+<audio controls>
+  <source src="https://github.com/dmoka/software-crafters/blob/main/Software-Crafters-No-testing-no-quality.mp3?raw=true" type="audio/mp3">
 </audio>
