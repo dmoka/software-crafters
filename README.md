@@ -41,3 +41,8 @@ Here are all the episodes of the Software Crafters Twitter space series. Enjoy! 
 <audio controls>
   <source src="https://github.com/dmoka/software-crafters/blob/main/Software-Crafters-Pair-Programming.mp3?raw=true" type="audio/mp3">
 </audio>
+
+## Pair-Programming
+<audio controls>
+  <source src="https://github.com/dmoka/software-crafters/blob/main/Software-Crafters-Clean-Code.mp3?raw=true" type="audio/mp3">
+</audio>
